@@ -30,7 +30,7 @@ const userData = {
   ],
   about: {
     title:
-      "I'm a software developer who loves building products and web applications that impact millions of lives",
+      "I'm a software developer who loves building products and web applications that have an impact on people's lives",
     description: [
       `I became interested in web and software development when I learned about AI pair programming.`, 
       `Since then, I have been working with ChatGPT and GitHub Copilot to tackle a number of different projects to cover all of the different languages, frameworks and tools that have always intrigued me.`, 
